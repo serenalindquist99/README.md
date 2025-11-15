@@ -68,6 +68,6 @@ Configured VLANs, trunking, routing, ACLs, NAT, DHCP, DNS. Performed packet anal
 
 ## 📫 Connect With Me
 - **LinkedIn:** www.linkedin.com/in/serena-lindquist-0276112b3  
-- **Email:** serena@example.com *(replace with your real)*
+- **Email:** serenaglindquist@gmail.com *(replace with your real)*
 
 ---
